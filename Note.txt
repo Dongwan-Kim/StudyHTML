@@ -1,0 +1,10 @@
+1.Nodejs.org 설치
+2.typescriptlang.org설치 
+3.git 가입
+4.깃 허브 데스크탑 설치  https://desktop.github.com
+5.깃 허브에 가입후 vscode-ts-node-debugging으로 검색후 포크 한다!! 
+    그럼 개인정보에 Your profile에 fork한 프로젝트가 들어와있다 
+6.git == 특별한 블로그이다~git은 다른 블로그와 달리 다른사람의 코드를 
+    내 블로그로 옮겨올수 있다 이유는 협동해서 만들어가기 때문에 
+7.fork는 다른사람의 코드블로그를 내 블로그의 코드로 가져오는것!!
+8. 웹에 있는 코드를 내 컴퓨터로 다운로드 하는 방법중에 하나 Open in Desktop
